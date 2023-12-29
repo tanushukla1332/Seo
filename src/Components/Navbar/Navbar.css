@@ -1,0 +1,22 @@
+a.nav-link {
+    color: #5e5e5e!important;
+    font-weight:500!important;
+    font-size: 18px!important;
+}
+a.nav-link:hover {
+    color:#3B7FBF !important;
+    text-decoration: underline;
+    text-underline-offset:10px;
+    text-decoration-thickness:2.5px
+}
+
+.Btn{
+    color: #FFFF!important;
+    border-color: #FFFF!important;
+    background-color:#3B7FBF!important;
+    font-size: 15px!important;
+    outline: none!important;
+    border: none!important;
+    border: 2px solid #FFFFFF!important;
+    box-shadow: none!important;
+}

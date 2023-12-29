@@ -1,0 +1,124 @@
+.btn1{
+    display: inline-block!important;
+    color: #5E5E5E!important;
+    background-color: #FFFFFF!important;
+    font-weight:550!important;
+    border: none!important;
+    width: 150px!important;
+    height:40px!important;
+    border-radius: 5px!important;
+    border: none!important;
+    outline: none!important;
+    box-shadow: none!important;
+
+}
+.btn1:hover{
+    color: #FFFFFF!important;
+    background-color:#3B7FBF!important;
+    border: none!important;
+    width: 150px!important;
+    height:40px!important;
+    border-radius: 5px!important;
+
+}
+.btn2{
+    background-color: #3B7FBF!important;
+    border: none!important;
+    width: 150px !important;
+    height:40px  !important;
+    color: #FFFFFF !important;
+    border-radius: 5px !important;
+    margin-bottom:20px !important;
+    font-weight:550 !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none!important;
+}
+.btn2:hover{
+    background-color: #5E5E5E !important;
+    font-weight:550 !important;
+    box-shadow: none!important;
+}
+.bgsection{
+    background-color:rgb(95, 168, 237,20%);
+}
+
+.hed2{
+    font-weight: bold!important;
+    letter-spacing:2px!important;
+    color:rgba(94,94,94,100%)!important;
+    font-size:38px!important;
+
+}
+@media screen and  (max-width: 991.98px)  {
+    .hed2{
+        font-weight: bold !important;
+        letter-spacing:2px !important;
+        color:rgba(94,94,94,100%)!important;
+        font-size:35px !important;
+    
+    }
+    
+
+ }
+ @media screen and  (max-width: 767.98px) {
+    .hed2{
+     
+        font-weight: bold!important;
+        letter-spacing:2px !important;
+        color:rgba(94,94,94,100%)!important;
+        font-size:30px !important;
+    
+    }
+
+
+  }
+
+@media screen and  (max-width: 575.98px) {
+    .hed2{
+        font-weight: bold!important;
+        letter-spacing:2px !important;
+        color:rgba(94,94,94,100%)!important;
+        font-size:25px !important;
+    
+    }
+
+  } 
+.para{
+    color:rgba(94,94,94,100%)!important;
+    font-size:18px!important;
+}
+.allimages img {
+    transition: transform 0.3s ease-in-out;
+}
+
+.allimages img:hover {
+    transform: scale(1.1); 
+}
+@media screen and  (max-width: 991.98px)  {
+    .para{
+        color: rgba(94,94,94,100%) !important;
+        font-size:17px !important;
+    
+    }
+    
+
+ }
+ @media screen and  (max-width: 767.98px) {
+    .para{
+        color: rgba(94,94,94,100%) !important;
+        font-size:15px !important;
+    
+    }
+
+
+  }
+
+@media screen and  (max-width: 575.98px) {
+    .para{
+        color: rgba(94,94,94,100%) !important;
+        font-size:14px !important;
+    
+    }
+
+  }
