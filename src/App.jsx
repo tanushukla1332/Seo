@@ -4,7 +4,7 @@ import Home from './Components/Home/Home'
 import About from "./Components/About/About";
 import Services from "./Components/Services/Services";
 import Login from "./Components/Login/Login";
-import './App.css'
+
 
 
 export default function App() {
