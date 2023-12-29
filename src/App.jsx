@@ -12,7 +12,8 @@ export default function App() {
   return (
     <>
     <Header />
-    <Routes>
+  
+   <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
       <Route path="/services" element={<Services />}/>
